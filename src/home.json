@@ -1,0 +1,474 @@
+{
+	"previewPage": {
+		"pt": "Prever em tempo real",
+		"gb": "Preview in real time"
+	},
+	"previewBox": {
+		"pt": "Prever documento",
+		"gb": "Preview document"
+	},
+	"previewPdf": {
+		"pt": "Salvar para o pc (pdf)",
+		"gb": "Save to the pc (pdf)"
+	},
+	"cancel": {
+		"pt": "Cancelar",
+		"gb": "Cancel"
+	},
+	"globalCompleted": {
+		"pt": "Confirmados:",
+		"gb": "Completed:"
+	},
+	"globalNotCompleted": {
+		"pt": "| Por confirmar:",
+		"gb": "| Not completed:"
+	},
+	"globalThanksA": {
+		"pt": "Obrigado!",
+		"gb": "Thank you"
+	},
+	"globalThanksB": {
+		"pt": "Mais uma vez obrigado!",
+		"gb": "One more time, thank you!"
+	},
+	"globalThanksC": {
+		"pt": "Obrigado por tudo!",
+		"gb": "Thank you for everything"
+	},
+	"courseCardTitle": {
+		"pt": "Formações",
+		"gb": "Courses"
+	},
+	"courseCardSubTitle": {
+		"pt": "Adicione as mais marcantes",
+		"gb": "Add the most relevants"
+	},
+	"courseLabel": {
+		"pt": "Formações profissionais relevantes:",
+		"gb": "Important professional courses:"
+	},
+	"courseTitle": {
+		"pt": "Formações:",
+		"gb": "Courses:"
+	},
+	"courseTitlePlaceholder": {
+		"pt": "Primeiros Socorros e suporte básico de vida",
+		"gb": "Life support"
+	},
+	"courseDuration": {
+		"pt": "Duração da formação:",
+		"gb": "Course duration"
+	},
+	"courseDurationPlaceholder": {
+		"pt": "30 h",
+		"gb": "30 h"
+	},
+	"courseDescription": {
+		"pt": "Descrição da formação:",
+		"gb": "Course description"
+	},
+	"courseDescriptionPlaceholder": {
+		"pt": "Descrição dos conteúdos da formação",
+		"gb": "Description do couse content"
+	},
+	"courseTitleInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"gb": "Introduce at least 6 characters"
+	},
+	"courseDurationInvalidVoid": {
+		"pt": "Introduza pelo menos 3 caracteres",
+		"gb": "Introduce at least 5 characters"
+	},
+	"courseDescriptionInvalidVoid": {
+		"pt": "Introduza pelo menos 4 letras",
+		"gb": "Introduce at least 4 characters"
+	},
+	"courseTitleInvalid": {
+		"pt": "Introduza a designação da formação",
+		"gb": "Introduce the course designation"
+	},
+	"courseDurationInvalid": {
+		"pt": "Introduza a duração em horas (h)",
+		"gb": "Introduce the course duration in hours (h)"
+	},
+	"courseDescriptionInvalid": {
+		"pt": "Descreva sucintamente a formação",
+		"gb": "Describe briefly the course"
+	},
+	"profileCardTitle": {
+		"pt": "Perfil",
+		"gb": "Profile"
+	},
+	"profileCardSubTitle": {
+		"pt": "Com este currículo vais agarrar o lugar dos seus sonhos",
+		"gb": "With this c.v. you will get the job of your dreams"
+	},
+	"profileLabel": {
+		"pt": "Perfil pessoal",
+		"gb": "Personal profile"
+	},
+	"profilePhoto": {
+		"pt": "",
+		"gb": ""
+	},
+	"profilePhotoLabel": {
+		"pt": "Escolha uma foto de perfil",
+		"gb": "Pick a profile photo"
+	},
+	"profilePhotoPlaceholder": {
+		"pt": "Escolha um ficheiro .jpg, .jpeg, .png com altura=largura",
+		"gb": "Choose a file with this extension .jpg, .jpeg, .png with width=height"
+	},
+	"profilePhotoDropPlaceholder": {
+		"pt": "Arraste o ficheiro para aqui..",
+		"gb": "Drag a image to this area..."
+	},
+	"profileFirstName": {
+		"pt": "Primeiro Nome:",
+		"gb": "First Name:"
+	},
+	"profileFirstNameDefault": {
+		"pt": "Alexandre",
+		"gb": "Alex"
+	},
+	"profileFirstNamePlaceholder": {
+		"pt": "O seu primeiro nome",
+		"gb": "Your first name"
+	},
+	"profileLastName": {
+		"pt": "Último Nome:",
+		"gb": "Last name:"
+	},
+	"profileLastNameDefault": {
+		"pt": "Silva",
+		"gb": "Woodgate"
+	},
+	"profileLastNamePlaceholder": {
+		"pt": "O seu último nome",
+		"gb": "Your last name"
+	},
+	"profilePosition": {
+		"pt": "Posição desejada:",
+		"gb": "Position desired:"
+	},
+	"profilePositionDefault": {
+		"pt": "Arquiteto",
+		"gb": "Arquitet"
+	},
+	"profilePositionPlaceholder": {
+		"pt": "A posição que pretende candidatar-se",
+		"gb": "The job position do you wanna apply for"
+	},
+	"profilePhone": {
+		"pt": "Contato:",
+		"gb": "Phone number:"
+	},
+	"profilePhoneDefault": {
+		"pt": "+351 212 000 000",
+		"gb": "+351 212 000 000"
+	},
+	"profilePhonePlaceholder": {
+		"pt": "Insira o seu contato móvel",
+		"gb": "Insert your mobile contact "
+	},
+	"profileEmail": {
+		"pt": "E-mail:",
+		"gb": "E-mail:"
+	},
+	"profileEmailDefault": {
+		"pt": "josesilva@mail.com",
+		"gb": "josesilva@mail.com"
+	},
+	"profileEmailPlaceholder": {
+		"pt": "Insira o seu melhor e-mail",
+		"gb": "Insert your best e-mail"
+	},
+	"profileAddress": {
+		"pt": "Morada:",
+		"gb": "Address:"
+	},
+	"profileAddressDefault": {
+		"pt": "Montijo - Setúbal",
+		"gb": "Chelsea - London"
+	},
+	"profileAddressPlaceholder": {
+		"pt": "ex: Cidade - Distrito",
+		"gb": "City"
+	},
+	"profileAbout": {
+		"pt": "Sobre mim:",
+		"gb": "About me:"
+	},
+	"profileAboutDefault": {
+		"pt": "Gosto de abraçar novos desafios. Sou pontual... Adoro a missão da vossa empresa.",
+		"gb": "I enjoy embrace new chalenges. I am a hard worker... I love your company social work."
+	},
+	"profileAboutPlaceholder": {
+		"pt": "Escreva livremente sobre si e sobre as suas expectativas",
+		"gb": "Write freely about you and your future expectations"
+	},
+	"profileStrength": {
+		"pt": "Pontos fortes:",
+		"gb": "Strong features :"
+	},
+	"profileStrengthDefault": {
+		"pt": ["Espírito de equipa","Liderança"],
+		"gb": ["Team spirit","Leadership"]
+	},
+	"profileStrengthPlaceholder": {
+		"pt": "Bom inglês, Autocad, Lealdade",
+		"gb": "French, Autocad, Focus"
+	},
+	"profileSocialNetwork": {
+		"pt": "Redes Sociais:",
+		"gb": "Social Networks:"
+	},
+	"profileSocialNetworkDefault": {
+		"pt": ["facebook.com/hernanifelixmedeiros/","linkedin.com/in/hernanimedeiros/"],
+		"gb": ["facebook.com/hernanifelixmedeiros/","linkedin.com/in/hernanimedeiros/"]
+	},
+	"profileSocialNetworkPlaceholder": {
+		"pt": "As suas redes sociais ex:linkedin.com/in/nome-do-perfil/",
+		"gb": "Your social networks ex:linkedin.com/in/nome-do-perfil/"
+	},
+	"profileHobbie": {
+		"pt": "Interesses:",
+		"gb": "Interests:"
+	},
+	"profileHobbieDefault": {
+		"pt": ["Crossfit","Leitura"],
+		"gb": ["Crossfit","Reading"]
+	},
+	"profileHobbiePlaceholder": {
+		"pt": "Os seus principais hobbies",
+		"gb": "What your do in the free time"
+	},
+	"profileFirstNameInvalidVoid": {
+		"pt": "Introduza pelo menos 3 letras",
+		"gb": "Introduce at least 3 characters"
+	},
+	"profileLastNameInvalidVoid": {
+		"pt": "Introduza pelo menos 3 letras",
+		"gb": "Introduce at least 3 characters"
+	},
+	"profilePositionInvalidVoid": {
+		"pt": "Introduza pelo menos 3 letras",
+		"gb": "Introduce at least 3 characters"
+	},
+	"profilePhoneInvalidVoid": {
+		"pt": "Introduza pelo menos 9 algarismos",
+		"gb": "Introduce at least 9 numbers"
+	},
+	"profileEmailInvalidVoid": {
+		"pt": "Não se esqueça da @",
+		"gb": "Do not forget of @"
+	},
+	"profileAddressInvalidVoid": {
+		"pt": "Introduza pelo menos 5 letras",
+		"gb": "Introduce at least 5 characters"
+	},
+	"profileFirstNameInvalid": {
+		"pt": "Introduza um nome válido",
+		"gb": "Introduce a valid name"
+	},
+	"profileLastNameInvalid": {
+		"pt": "Introduza um sobre nome válido",
+		"gb": "Introduce a valid surname"
+	},
+	"profilePositionInvalid": {
+		"pt": "Introduza uma posição válida",
+		"gb": "Introduce a valid position"
+	},
+	"profilePhoneInvalid": {
+		"pt": "Introduza um nr. de telefone válido",
+		"gb": "Introduce a valid phone number"
+	},
+	"profileEmailInvalid": {
+		"pt": "Introduza um e-mail válido",
+		"gb": "Introduce a valid e-mail"
+	},
+	"profileAddressInvalid": {
+		"pt": "Introduza pelo menos a cidade",
+		"gb": "Introduce at least the city"
+	},
+	"educationCardTitle": {
+		"pt": "Educação",
+		"gb": "Education"
+	},
+	"educationCardSubTitle": {
+		"pt": "Adicione as principais",
+		"gb": "Add the major ones"
+	},
+	"educationLabel": {
+		"pt": "Educação",
+		"gb": "Eucation"
+	},
+	"educationTitle": {
+		"pt": "Educação:",
+		"gb": "Education"
+	},
+	"educationTitlePlaceholder": {
+		"pt": "Universidade da Beira Interior",
+		"gb": "University of Oxford"
+	},
+	"educationDuration": {
+		"pt": "Duração:",
+		"gb": "Time"
+	},
+	"educationDurationPlaceholder": {
+		"pt": "2010 - 2015",
+		"gb": "2010 - 2015"
+	},
+	"educationDescription": {
+		"pt": "Designação:",
+		"gb": "Designation"
+	},
+	"educationDescriptionPlaceholder": {
+		"pt": "Arquitetura",
+		"gb": "Arquiteture"
+	},
+	"educationTitleInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"gb": "Introduce at least 6 characters"
+	},
+	"educationDurationInvalidVoid": {
+		"pt": "Introduza pelo menos 5 letras",
+		"gb": "Introduce at least 5 characters"
+	},
+	"educationDescriptionInvalidVoid": {
+		"pt": "Introduza pelo menos 4 letras",
+		"gb": "Introduce at least 4 characters"
+	},
+	"educationTitleInvalid": {
+		"pt": "Introduza a Instituição de ensino",
+		"gb": "Introduce the School"
+	},
+	"educationDurationInvalid": {
+		"pt": "Introduza o período de duração do curso",
+		"gb": "Introduce the period of studies"
+	},
+	"educationDescriptionInvalid": {
+		"pt": "Introduza a designação do curso",
+		"gb": "Introduce degree designation"
+	},
+	"experienceCardTitle": {
+		"pt": "Experiência profissional",
+		"gb": "Professional experience"
+	},
+	"experienceCardSubTitle": {
+		"pt": "Adicione as mais relevantes",
+		"gb": "Add the most important"
+	},
+	"experienceLabel": {
+		"pt": "Experiência Profissional",
+		"gb": "Professional experience"
+	},
+	"experienceTitle": {
+		"pt": "Experiência:",
+		"gb": "Experience:"
+	},
+	"experienceTitlePlaceholder": {
+		"pt": "Backend Engineer",
+		"gb": "Backend Engineer"
+	},
+	"experienceSubTitle": {
+		"pt": "Empresa:",
+		"gb": "Company"
+	},
+	"experienceSubTitlePlaceholder": {
+		"pt": "WebMax",
+		"gb": "WebMax"
+	},
+	"experienceDuration": {
+		"pt": "Duração das funções:",
+		"gb": "Time in duty"
+	},
+	"experienceDurationPlaceholder": {
+		"pt": "Maio 2018 - Abril 2020",
+		"gb": "May 2018 - April 2020"
+	},
+	"experienceDescription": {
+		"pt": "Descreva as suas funções:",
+		"gb": "Describe your job"
+	},
+	"experienceDescriptionPlaceholder": {
+		"pt": "Prototipagem, Web design, PHP, MySQL, Laravel, Cookie PHP, JigSaw, Testes, Deploy",
+		"gb": "Web design, PHP, MySQL, Laravel, Cookie PHP, JigSaw, Tests, Deploy"
+	},
+	"experienceTitleInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"gb": "Introduce at least 6 letters"
+	},
+	"experienceSubTitleInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"gb": "Introduce at least 6 letters"
+	},
+	"experienceDurationInvalidVoid": {
+		"pt": "Introduza pelo menos 5 letras",
+		"gb": "Introduce at least 5 letters"
+	},
+	"experienceDescriptionInvalidVoid": {
+		"pt": "Introduza pelo menos 4 letras",
+		"gb": "Introduce at least 4 letters"
+	},
+	"experienceTitleInvalid": {
+		"pt": "Introduza a posição",
+		"gb": "Introduce the position"
+	},
+	"experienceSubTitleInvalid": {
+		"pt": "Introduza a empresa",
+		"gb": "Introduce the company"
+	},
+	"experienceDurationInvalid": {
+		"pt": "Introduza o período de atividade",
+		"gb": "Introduce your time in duty"
+	},
+	"experienceDescriptionInvalid": {
+		"pt": "Por favor descreva as suas funções mais relevantes",
+		"gb": "Describe your main functions in the company"
+	},
+	"skillCardTitle": {
+		"pt": "Competências profissionais",
+		"gb": "Professional skills"
+	},
+	"skillCardSubTitle": {
+		"pt": "Adicione as suas principais competências",
+		"gb": "Add your main professional skills"
+	},
+	"skillLabel": {
+		"pt": "Principais competências",
+		"gb": "Main skills"
+	},
+	"skillTitle": {
+		"pt": "Competências:",
+		"gb": "Expertise:"
+	},
+	"skillTitlePlaceholder": {
+		"pt": "Microsoft Office",
+		"gb": "Microsoft Office"
+	},
+	"skillDescription": {
+		"pt": "Uma breve descrição:",
+		"gb": "Brief description"
+	},
+	"skillDescriptionPlaceholder": {
+		"pt": "Competências avançadas em Word, Power Point, Access e Excel (eg. Macros, VBA)",
+		"gb": "Ninja skills in Word, Power Point, Excel and Access"
+	},
+	"skillTitleInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"gb": "Introduce at least 6 letters"
+	},
+	"skillDescriptionInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"gb": "Introduce at least 6 letters"
+	},
+	"skillTitleInvalid": {
+		"pt": "Introduza uma competência profissional",
+		"gb": "Introduce your professional skills"
+	},
+	"skillDescriptionInvalid": {
+		"pt": "Por favor descreva a competência profissional",
+		"gb": "Describe your professional skill"
+	}
+}
