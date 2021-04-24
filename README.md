@@ -1,4 +1,5 @@
 # vue_app
+*A first draft of CV generator app written in Vue. Later I migrate the project to [Nuxt](https://github.com/hernanimedeiros/cv-generator-nuxt)*
 
 ## Project setup
 ```
